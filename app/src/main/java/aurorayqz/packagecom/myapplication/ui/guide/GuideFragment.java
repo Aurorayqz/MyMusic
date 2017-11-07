@@ -20,6 +20,7 @@ public class GuideFragment extends LoadFragment {
     private CustomView mCustomView;
     public GuideFragment() {
         // Required empty public constructor
+        
     }
 
 
