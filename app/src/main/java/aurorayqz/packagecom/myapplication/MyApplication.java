@@ -6,9 +6,9 @@ import android.content.Context;
 import android.support.annotation.ColorInt;
 import android.support.annotation.ColorRes;
 
-import com.cainiao5.cainiaomusic.common.utils.ThemeHelper;
+import aurorayqz.packagecom.myapplication.common.util.ThemeHelper;
 
-import magicasakura.utils.ThemeUtils;
+import com.bilibili.magicasakura.utils.ThemeUtils;
 
 /**
  * Created by hongkl on 17/4/14.
