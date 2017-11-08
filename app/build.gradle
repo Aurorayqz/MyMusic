@@ -4,6 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "25.0.2"
     defaultConfig {
+        multiDexEnabled true
         applicationId "aurorayqz.packagecom.myapplication"
         minSdkVersion 15
         targetSdkVersion 26
@@ -19,7 +20,7 @@ android {
     }
     sourceSets {
         main {
-            java.srcDirs = ['src/main/java', 'src/main/com']
+            java.srcDirs = ['src/main/java']
         }
     }
 
