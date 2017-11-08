@@ -10,9 +10,7 @@ import aurorayqz.packagecom.myapplication.common.util.ThemeHelper;
 
 import com.bilibili.magicasakura.utils.ThemeUtils;
 
-/**
- * Created by hongkl on 17/4/14.
- */
+
 public class MyApplication extends Application implements ThemeUtils.switchColor{
     public static Context context;
 
