@@ -9,5 +9,7 @@
     <color name="theme_color_primary_trans">#99f0486c</color>
     <color name="playbarProgressColor">#ffce3d3a</color>
     <color name="bottomSheetNormalBackground">#f9ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="background_material_light_1">#fafafa</color>
 
 </resources>
